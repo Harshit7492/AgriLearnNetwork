@@ -1038,7 +1038,7 @@ font-size: 36px;
 /*ADD TO CART CSS*/
 
 .add-to-cart {
-    background-color: #28a745;
+    background-color: transparent;
     color: white;
     border: none;
     padding: 10px;
@@ -1047,7 +1047,7 @@ font-size: 36px;
 }
 
 .add-to-cart:hover {
-    background-color: #218838;
+    background-color: #6aaf79;
 }
 
 /* .mini-cart {
